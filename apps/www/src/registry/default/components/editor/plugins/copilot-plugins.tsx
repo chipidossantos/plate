@@ -3,7 +3,7 @@
 import type { TElement } from '@udecode/plate';
 
 import { faker } from '@faker-js/faker';
-import { CopilotPlugin } from '@udecode/plate-ai/react';
+import { CopilotPlugin } from '@chipidossantos/plate-ai/react';
 import { serializeMdNodes, stripMarkdown } from '@udecode/plate-markdown';
 
 import { GhostText } from '@/registry/default/plate-ui/ghost-text';

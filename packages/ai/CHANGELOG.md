@@ -1,4 +1,4 @@
-# @udecode/plate-ai
+# @chipidossantos/plate-ai
 
 ## 44.0.3
 

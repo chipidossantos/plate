@@ -6044,9 +6044,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@udecode/plate-ai@workspace:^, @udecode/plate-ai@workspace:packages/ai":
+"@chipidossantos/plate-ai@workspace:^, @chipidossantos/plate-ai@workspace:packages/ai":
   version: 0.0.0-use.local
-  resolution: "@udecode/plate-ai@workspace:packages/ai"
+  resolution: "@chipidossantos/plate-ai@workspace:packages/ai"
   dependencies:
     "@udecode/plate-combobox": "npm:44.0.0"
     "@udecode/plate-markdown": "npm:44.0.0"
@@ -21068,7 +21068,7 @@ __metadata:
     "@udecode/cmdk": "workspace:^"
     "@udecode/cn": "workspace:^"
     "@udecode/plate": "workspace:^"
-    "@udecode/plate-ai": "workspace:^"
+    "@chipidossantos/plate-ai": "workspace:^"
     "@udecode/plate-alignment": "workspace:^"
     "@udecode/plate-autoformat": "workspace:^"
     "@udecode/plate-basic-elements": "workspace:^"

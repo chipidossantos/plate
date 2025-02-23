@@ -1095,7 +1095,7 @@
   },
   {
     "dependencies": [
-      "@udecode/plate-ai",
+      "@chipidossantos/plate-ai",
       "@udecode/plate-block-quote",
       "@udecode/plate-code-block",
       "@udecode/plate-date",
@@ -1713,7 +1713,7 @@
   },
   {
     "dependencies": [
-      "@udecode/plate-ai",
+      "@chipidossantos/plate-ai",
       "@udecode/plate-markdown",
       "@udecode/plate-selection",
       "ai",
@@ -1825,7 +1825,7 @@
   },
   {
     "dependencies": [
-      "@udecode/plate-ai",
+      "@chipidossantos/plate-ai",
       "@udecode/plate-block-quote",
       "@udecode/plate-heading",
       "@udecode/plate-indent-list",
@@ -2506,7 +2506,7 @@
   },
   {
     "dependencies": [
-      "@udecode/plate-ai"
+      "@chipidossantos/plate-ai"
     ],
     "doc": {
       "description": "A text suggestion system that displays AI-generated content after the cursor.",

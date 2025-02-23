@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { AIChatPlugin, AIPlugin } from '@udecode/plate-ai/react';
+import { AIChatPlugin, AIPlugin } from '@chipidossantos/plate-ai/react';
 import { MarkdownPlugin } from '@udecode/plate-markdown';
 
 import { AIMenu } from '@/components/plate-ui/ai-menu';

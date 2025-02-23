@@ -4,7 +4,7 @@ import React, { memo } from 'react';
 
 import { withProps } from '@udecode/cn';
 import { BaseParagraphPlugin, SlateLeaf } from '@udecode/plate';
-import { useAIChatEditor } from '@udecode/plate-ai/react';
+import { useAIChatEditor } from '@chipidossantos/plate-ai/react';
 import {
   BaseBoldPlugin,
   BaseCodePlugin,

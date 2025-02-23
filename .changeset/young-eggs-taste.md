@@ -1,5 +1,5 @@
 ---
-'@udecode/plate-ai': minor
+'@chipidossantos/plate-ai': minor
 ---
 
 Fixed a bug with interpreting markdown output from LLMs

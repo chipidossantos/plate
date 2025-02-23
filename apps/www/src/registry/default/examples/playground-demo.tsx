@@ -4,7 +4,7 @@ import React, { useMemo } from 'react';
 
 import type { Value } from '@udecode/plate';
 
-import { AIChatPlugin, CopilotPlugin } from '@udecode/plate-ai/react';
+import { AIChatPlugin, CopilotPlugin } from '@chipidossantos/plate-ai/react';
 import { AlignPlugin } from '@udecode/plate-alignment/react';
 import { AutoformatPlugin } from '@udecode/plate-autoformat/react';
 import {

@@ -62,7 +62,7 @@ importers:
       '@udecode/plate':
         specifier: 44.0.1
         version: 44.0.1(@types/react@19.0.8)(immer@10.1.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(scheduler@0.25.0)(slate-dom@0.112.2(slate@0.112.0))(slate@0.112.0)(use-sync-external-store@1.4.0(react@19.0.0))
-      '@udecode/plate-ai':
+      '@chipidossantos/plate-ai':
         specifier: 44.0.0
         version: 44.0.0(@udecode/plate@44.0.1(@types/react@19.0.8)(immer@10.1.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(scheduler@0.25.0)(slate-dom@0.112.2(slate@0.112.0))(slate@0.112.0)(use-sync-external-store@1.4.0(react@19.0.0)))(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@udecode/plate-alignment':
@@ -1490,7 +1490,7 @@ packages:
       react-dom: '>=18.0.0'
       tailwind-merge: '>=2.2.0'
 
-  '@udecode/plate-ai@44.0.0':
+  '@chipidossantos/plate-ai@44.0.0':
     resolution: {integrity: sha512-WRNdVUjk0BD9bfRKYtSWhdee4hx5xS/RjyfEc74+pz0qX/VB0ih6LZXTwsLFmpfdFKT7LHJCqbu6f4KLDZaVRA==}
     peerDependencies:
       '@udecode/plate': '>=44.0.0'
@@ -5041,7 +5041,7 @@ snapshots:
     transitivePeerDependencies:
       - '@types/react'
 
-  '@udecode/plate-ai@44.0.0(@udecode/plate@44.0.1(@types/react@19.0.8)(immer@10.1.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(scheduler@0.25.0)(slate-dom@0.112.2(slate@0.112.0))(slate@0.112.0)(use-sync-external-store@1.4.0(react@19.0.0)))(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@chipidossantos/plate-ai@44.0.0(@udecode/plate@44.0.1(@types/react@19.0.8)(immer@10.1.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(scheduler@0.25.0)(slate-dom@0.112.2(slate@0.112.0))(slate@0.112.0)(use-sync-external-store@1.4.0(react@19.0.0)))(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@udecode/plate': 44.0.1(@types/react@19.0.8)(immer@10.1.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(scheduler@0.25.0)(slate-dom@0.112.2(slate@0.112.0))(slate@0.112.0)(use-sync-external-store@1.4.0(react@19.0.0))
       '@udecode/plate-markdown': 44.0.0(@udecode/plate@44.0.1(@types/react@19.0.8)(immer@10.1.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)(scheduler@0.25.0)(slate-dom@0.112.2(slate@0.112.0))(slate@0.112.0)(use-sync-external-store@1.4.0(react@19.0.0)))(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
