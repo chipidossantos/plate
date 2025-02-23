@@ -3,7 +3,7 @@
 import type { Value } from '@udecode/plate';
 
 import { withProps } from '@udecode/cn';
-import { AIPlugin } from '@udecode/plate-ai/react';
+import { AIPlugin } from '@chipidossantos/plate-ai/react';
 import {
   BoldPlugin,
   CodePlugin,

@@ -82,7 +82,7 @@ No breaking changes. Upgraded all dependencies to the latest version.
 
 # 42.0.1
 
-## @udecode/plate-ai@42.0.0
+## @chipidossantos/plate-ai@42.0.0
 
 ### Major Changes
 
@@ -795,7 +795,7 @@ No breaking changes. Upgraded all dependencies to the latest version.
   - Add `slate-dom` as a peer dependency.
   - Update `slate-react` peer dependency to `>=0.111.0`
 
-## @udecode/plate-ai@40.0.0
+## @chipidossantos/plate-ai@40.0.0
 
 ### Major Changes
 

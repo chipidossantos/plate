@@ -18,7 +18,7 @@ export const blocks: Registry['items'] = [
     category: 'Editors',
     dependencies: [
       '@udecode/cn',
-      '@udecode/plate-ai',
+      '@chipidossantos/plate-ai',
       '@udecode/plate-basic-marks',
       '@udecode/plate-block-quote',
       '@udecode/plate-code-block',

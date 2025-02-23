@@ -529,7 +529,7 @@ export const docExamples: Registry['items'] = [
     type: 'registry:example',
   },
   {
-    dependencies: ['@udecode/plate-ai', '@udecode/plate-markdown'],
+    dependencies: ['@chipidossantos/plate-ai', '@udecode/plate-markdown'],
     doc: {
       description: 'Renders AI ghost text suggestions at the cursor position.',
       docs: [

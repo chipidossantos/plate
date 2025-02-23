@@ -1,4 +1,4 @@
-import { AIChatPlugin, AIPlugin, CopilotPlugin } from '@udecode/plate-ai/react';
+import { AIChatPlugin, AIPlugin, CopilotPlugin } from '@chipidossantos/plate-ai/react';
 import { AlignPlugin } from '@udecode/plate-alignment/react';
 import { AutoformatPlugin } from '@udecode/plate-autoformat/react';
 import {
@@ -146,7 +146,7 @@ export const customizerItems: Record<string, SettingPlugin> = {
     badges: [customizerBadges.handler],
     dependencies: [AIPlugin.key],
     label: 'AI Chat',
-    npmPackage: '@udecode/plate-ai',
+    npmPackage: '@chipidossantos/plate-ai',
     pluginFactory: 'AIChatPlugin',
     route: getPluginNavItem('ai').href,
   },
@@ -163,7 +163,7 @@ export const customizerItems: Record<string, SettingPlugin> = {
       },
     ],
     label: 'AI',
-    npmPackage: '@udecode/plate-ai',
+    npmPackage: '@chipidossantos/plate-ai',
     pluginFactory: 'AIPlugin',
     route: getPluginNavItem('ai').href,
   },
@@ -412,7 +412,7 @@ export const customizerItems: Record<string, SettingPlugin> = {
     id: CopilotPlugin.key,
     badges: [customizerBadges.handler],
     label: 'Copilot',
-    npmPackage: '@udecode/plate-ai',
+    npmPackage: '@chipidossantos/plate-ai',
     pluginFactory: 'CopilotPlugin',
     route: getPluginNavItem('copilot').href,
   },

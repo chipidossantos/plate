@@ -5,7 +5,7 @@ import { siteConfig } from '../config/site';
 export const uiComponents: Registry['items'] = [
   {
     dependencies: [
-      '@udecode/plate-ai',
+      '@chipidossantos/plate-ai',
       '@udecode/plate-markdown',
       '@udecode/plate-selection',
       'ai',
@@ -64,7 +64,7 @@ export const uiComponents: Registry['items'] = [
   },
   {
     dependencies: [
-      '@udecode/plate-ai',
+      '@chipidossantos/plate-ai',
       '@udecode/plate-block-quote',
       '@udecode/plate-heading',
       '@udecode/plate-indent-list',
@@ -492,7 +492,7 @@ import { HTML5Backend } from 'react-dnd-html5-backend';`,
     type: 'registry:ui',
   },
   {
-    dependencies: ['@udecode/plate-ai'],
+    dependencies: ['@chipidossantos/plate-ai'],
     doc: {
       description:
         'A text suggestion system that displays AI-generated content after the cursor.',
@@ -1538,7 +1538,7 @@ export const uiNodes: Registry['items'] = [
   },
   {
     dependencies: [
-      '@udecode/plate-ai',
+      '@chipidossantos/plate-ai',
       '@udecode/plate-block-quote',
       '@udecode/plate-code-block',
       '@udecode/plate-date',
